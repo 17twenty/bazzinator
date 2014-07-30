@@ -73,7 +73,7 @@ if form.getvalue('paste'):
 
 	print '<div class="row">'
 	print '<div class="col-lg-2">'
-	print '<img src="img/Bazmbr.gif" />'
+	print '<img src="Bazmbr.gif" />'
 	print '</div>'
 	print """<style>
   .bubble {
